@@ -1,1 +1,1 @@
-# test-stepic
+# test-stepik
